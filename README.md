@@ -4,7 +4,7 @@
 > Lớp: Công nghệ thông tin 03- K63
 
 > Trường: Đại học Bách Khoa Hà Nội
-## Môn học
+## ❣️ Môn học
 > Môn học: Technical writing and presentation.
 
 > Giảng viên hướng dẫn: Nguyễn Thị Huyền 
@@ -16,7 +16,7 @@
   Markdown Technical Report
 </h1>
 
- # **Factory Method**📚📖📙
+# **Factory Method**📚📖📙
 ##  ☹️ Vấn đề
 Hãy tưởng tượng bạn đang tạo một ứng dụng để quản lý dịch vụ vận chuyển. Phiên bản ban đầu chỉ có thể xử lý việc vận tải bằng xe tải và hầu hết phần mã đều nằm ở lớp `Truck 🚛`. Sau một thời gian, ứng dụng của bạn trở nên phổ biến, kèm theo đó là những yêu cầu từ các công ty vận tải đường biển về các dịch vụ hậu cần đường biển vào ứng dụng. Đến đây, trong đầu lại chợt mở ra một câu hỏi lớn: “Làm thế nào bây giờ, làm thế nào để thêm các dịch vụ hậu cần đường biển trong khi hầu hết các mã của bạn đều thêm vào lớp `Truck 🚛`? Việc thế, việc thêm `Ship🚢`  vào ứng dụng sẽ làm thay đổi với các đoạn mã cơ sở. Điều này làm cho đoạn mã của bạn thêm tương đối rối và khó chịu. Và hơn nữa, nếu sau này muốn mở rộng các dịch vụ hậu cần đường hàng không nữa thì càng khiến đoạn mã thêm phức tạp, khó theo dõi hơn…
 
