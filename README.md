@@ -1,10 +1,17 @@
-## Thông tin sinh viên
+## 👱 Thông tin sinh viên
 > Họ và tên: Trần Văn Tuyền
 
 > Lớp: Công nghệ thông tin 03- K63
 
 > Trường: Đại học Bách Khoa Hà Nội
+## Môn học
+> Môn học: Technical writing and presentation.
 
+> Giảng viên hướng dẫn: Nguyễn Thị Huyền 
+## ✍️ Note: 
+ Do khi chuyển từ file md sang pdf các icon đều bị mất màu. Để xem chi tiết bản có màu `đẹp hơn` nhấp chuột
+
+👉[Markdown Technical Report](https://github.com/tuyentran2222/bt3_giaodienGoogle) 
 <h1 align="center">
   Markdown Technical Report
 </h1>
